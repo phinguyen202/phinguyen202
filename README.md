@@ -61,7 +61,7 @@ I’m Phi, a software engineer, and a camper. Yeah, I spend most of the time bui
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQLServer-informational?style=flat&logo=microsoft-SQL-Server&logoColor=white&color=4AB197)
 
-Leanring: 
+I'm learning: 
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
 
 <details>
