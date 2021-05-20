@@ -15,6 +15,7 @@ I’m Phi, a software engineer, and a camper. Yeah, I spend most of the time bui
 <br>
 
 - [YDNJS — Interesting parts of 1st book](https://dev.to/phinguyen202/ydnjs-interesting-parts-of-1st-book-3nio)
+- [Closure as strategy pattern](https://dev.to/phinguyen202/closure-use-case-as-strategy-pattern-12d9)
 
 <br>
 
