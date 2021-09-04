@@ -7,9 +7,11 @@
 
 Hi there 👋
 
-I’m Phi, a software engineer, and a camper. Yeah, I spend most of the time building useful and interesting software because I love to do that. And I love camping too, get up in the forest, taste Vietnamese coffee, and listening to the sound of nature. It makes me more creative and ready for any journey.
+Love coding 💻
+Love camping ⛺
+Love guitar 🎸
 
-🟢 Status: Finding a new job, in-office or remote, especially related to musical instrument or outdoor equipment industry.
+🟢 Status: Finding a new job, in-office or remote.
 ## 📝 Blog Posts
 
 <br>
