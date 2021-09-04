@@ -8,7 +8,9 @@
 Hi there 👋
 
 Love coding 💻
+
 Love camping ⛺
+
 Love guitar 🎸
 
 🟢 Status: Finding a new job, in-office or remote.
