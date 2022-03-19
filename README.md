@@ -11,7 +11,6 @@ Love camping ⛺
 <br>
 Love guitar 🎸
 
-🟢 Status: Finding a new job, in-office or remote.
 ## 📝 Blog Posts
 
 <br>
